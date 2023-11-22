@@ -1,0 +1,19 @@
+Actividad Queries A Firebase - César Ley Rodríguez
+
+Para realizar esta practica fue necesario tener en cuenta los siguientes conocimientos necesarios para la elaboración:
+
+  - Manejo correcto de flutter y dart para poder crear el proyecto.
+  - Conocimiento suficiente del uso de paquetes en flutter para poder instalar dependencias como lo son toda la documentación de firebase.
+  - Conocimiento de flutterfire para realizar una conexión exitosa entre el proyecto y la base de datos.
+  - Manejo de firestore para la creación de colecciones y documentos, estos los usaremos para realizar un pequeño CRUD con queries capaces de modificar el contenido de la bdd.
+
+pasos para resolver la actividad
+
+1. Crear un archivo de flutter con las dependencias de flutterfire configure activas
+2. Crear un proyecto en firebase y activar firestore en el mismo
+3. Correr el comando flutterfire para poder hacer una configuración automatica de la bdd con el proyecto.
+4. Desde la base de datos crear un modelo como el que se encuentra en el documento del entregable en canvas.
+5. Seleccionar un espacio en el proyecto de flutter y comenzar a codificar, cuidando siempre haber inicializado la bdd y estar apuntando correctamente a la colección.
+6. Mediante el uso de list view comenzar a reflejar los resultados de las consultas a la bdd, la idea principal es que el programa tenga la capacidad de leer y escribir en nuestra bdd.
+
+
